@@ -1,0 +1,9 @@
+{
+  "name": "aliy-claude-mods",
+  "owner": { "name": "Aliy" },
+  "plugins": [
+    { "name": "session-chat", "source": "./plugins/session-chat", "description": "Claude сессиялари бир-бирига хабар юборади" },
+    { "name": "agent-dashboard", "source": "./plugins/agent-dashboard", "description": "Агентлар ва лойиҳа дашборди" },
+    { "name": "model-router", "source": "./plugins/model-router", "description": "Оддий вазифаларни Haiku га йўналтиради" }
+  ]
+}
