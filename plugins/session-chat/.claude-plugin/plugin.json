@@ -1,0 +1,8 @@
+{
+  "name": "session-chat",
+  "version": "0.1.0",
+  "description": "Claude сессиялари бир-бирига хабар юборади: /sessions, /tell, /inbox",
+  "author": {
+    "name": "Aliy"
+  }
+}
